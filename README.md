@@ -6,8 +6,13 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 Skills involved:
-Webscraping using BeautifulSoup \n
+
+Webscraping using BeautifulSoup
+
 Data Wrangling and Feature Engineering using Pandas
+
 Exploratory Data Analysis using SQL (Sqlite3)
+
 Visualizing using Plotly, Folium, Matplotlib and Seaborn
+
 Predictive Analysis using Scikit-Learn
